@@ -1,0 +1,6 @@
+Throughout this project I learned how to create exceptions. Most of the other work I already knew how to do like 
+creating JUnit tests and debugging code. My biggest obstacle throughout this project was creating the isValid method
+since all the JUnit tests used the isValid method. All my tests were failing even though my methods were working.
+I had to figure out what was wrong with my method and then fix it. This proccess of isolating methods to figure out
+what was wrong is something I have done for many of my projects. I also used print statements for the ArrayList method
+to determine what the format to print out the ArrayLists should be. 
