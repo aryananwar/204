@@ -1,0 +1,5 @@
+This assignment was relativley easy. I understood every part of this project and it made sense to me why everything worked the way it should have. The only method 
+that wasn't working right away was my get method. I originally was just checking the index and not using the for loop at all, but then I iterated through every element
+in the linked list and that solved it. Another thing I was struggling with was getting a NullPointerException. I fixed this pretty soon because I realized that in my add
+method, I was assuming that the linked list was already created. To fix this I created a for loop in the constructor for every index in the ArrayList I would instantiate
+a linked list and this solved the issue.
